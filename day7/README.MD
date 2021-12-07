@@ -12,7 +12,7 @@ You quickly make a list of the horizontal position of each crab (your puzzle inp
 
 For example, consider the following horizontal positions:
 
-16,1,2,0,4,2,7,1,2,14
+    16,1,2,0,4,2,7,1,2,14
 
 This means there's a crab with horizontal position 16, a crab with horizontal position 1, and so on.
 
@@ -31,7 +31,14 @@ Each change of 1 step in horizontal position of a single crab costs 1 fuel. You 
 
 This costs a total of 37 fuel. This is the cheapest possible outcome; more expensive outcomes include aligning at position 1 (41 fuel), position 3 (39 fuel), or position 10 (71 fuel).
 
-Determine the horizontal position that the crabs can align to using the least fuel possible. How much fuel must they spend to align to that position?
+**Determine the horizontal position that the crabs can align to using the least fuel possible. How much fuel must they spend to align to that position?**
+
+<details>
+    <summary>
+        Click for the correct answer using my input.txt.
+    </summary>
+    Your puzzle answer was 356179.
+</details>
 
 # Part Two ---
 
@@ -54,4 +61,11 @@ As each crab moves, moving further becomes more expensive. This changes the best
 
 This costs a total of 168 fuel. This is the new cheapest possible outcome; the old alignment position (2) now costs 206 fuel instead.
 
-Determine the horizontal position that the crabs can align to using the least fuel possible so they can make you an escape route! How much fuel must they spend to align to that position?
+**Determine the horizontal position that the crabs can align to using the least fuel possible so they can make you an escape route! How much fuel must they spend to align to that position?**
+
+<details>
+    <summary>
+        Click for the correct answer with my input.
+    </summary>
+    Your puzzle answer was 99788435.
+</details>
