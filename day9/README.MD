@@ -1,3 +1,8 @@
+This readme is archived from https://adventofcode.com/2021/day/9 and may not be commercially redistributed.
+Advent of Code is a registered trademark in the United States.
+It's contents are originally written by Eric Wastl, and slightly modified with my answers.
+
+
 # Day 9: Smoke Basin
 
 These caves seem to be lava tubes. Parts are even still volcanically active; small hydrothermal vents release smoke into the caves that slowly settles like rain.

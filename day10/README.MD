@@ -1,3 +1,8 @@
+This readme is archived from https://adventofcode.com/2021/day/10 and may not be commercially redistributed.
+Advent of Code is a registered trademark in the United States.
+It's contents are originally written by Eric Wastl, and slightly modified with my answers.
+
+
 # Day 10: Syntax Scoring
 
 You ask the submarine to determine the best route out of the deep-sea cave, but it only replies:

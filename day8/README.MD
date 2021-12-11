@@ -1,3 +1,8 @@
+This readme is archived from https://adventofcode.com/2021/day/8 and may not be commercially redistributed.
+Advent of Code is a registered trademark in the United States.
+It's contents are originally written by Eric Wastl, and slightly modified with my answers.
+
+
 # Day 8: Seven Segment Search
 
 You barely reach the safety of the cave when the whale smashes into the cave mouth, collapsing it. Sensors indicate another exit to this cave at a much greater depth, so you have no choice but to press on.

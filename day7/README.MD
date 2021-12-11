@@ -1,3 +1,8 @@
+This readme is archived from https://adventofcode.com/2021/day/7 and may not be commercially redistributed.
+Advent of Code is a registered trademark in the United States.
+It's contents are originally written by Eric Wastl, and slightly modified with my answers.
+
+
 # Day 7: The Treachery of Whales
 
 A giant whale has decided your submarine is its next meal, and it's much faster than you are. There's nowhere to run!

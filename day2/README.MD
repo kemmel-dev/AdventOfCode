@@ -1,3 +1,8 @@
+This readme is archived from https://adventofcode.com/2021/day/2 and may not be commercially redistributed.
+Advent of Code is a registered trademark in the United States.
+It's contents are originally written by Eric Wastl, and slightly modified with my answers.
+
+
 # Day 2: Dive!
 
 Now, you need to figure out how to pilot this thing.
