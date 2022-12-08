@@ -1,4 +1,4 @@
-This readme is archived from https://adventofcode.com/2022/day/4 and may not be commercially redistributed.
+This readme is archived from https://adventofcode.com/2022/day/5 and may not be commercially redistributed.
 Advent of Code is a registered trademark in the United States.
 It's contents are originally written by Eric Wastl, and slightly modified with my answers.
 
