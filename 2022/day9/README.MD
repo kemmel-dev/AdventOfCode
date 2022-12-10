@@ -2,6 +2,7 @@ This readme is archived from https://adventofcode.com/2022/day/9 and may not be 
 Advent of Code is a registered trademark in the United States.
 It's contents are originally written by Eric Wastl, and slightly modified with my answers.
 
+
 --- Day 9: Rope Bridge ---
 
 This rope bridge creaks as you walk along it. You aren't sure how old it is, or whether it can even support your weight.
@@ -250,11 +251,7 @@ So, there are 13 positions the tail visited at least once.
 
 Simulate your complete hypothetical series of motions. How many positions does the tail of the rope visit at least once?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 5930.
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 5930.
 </details>
 
 --- Part Two ---
@@ -692,9 +689,5 @@ Now, the tail (9) visits 36 positions (including s) at least once:
 
 Simulate your complete series of motions on a larger rope with ten knots. How many positions does the tail of the rope visit at least once?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 2443.
-</details>
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 2443.</details>
+

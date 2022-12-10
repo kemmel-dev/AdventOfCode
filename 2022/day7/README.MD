@@ -2,6 +2,7 @@ This readme is archived from https://adventofcode.com/2022/day/7 and may not be 
 Advent of Code is a registered trademark in the United States.
 It's contents are originally written by Eric Wastl, and slightly modified with my answers.
 
+
 --- Day 7: No Space Left On Device ---
 
 You can hear birds chirping and raindrops hitting leaves as the expedition proceeds. Occasionally, you can even hear much louder sounds in the distance; how big do the animals get out here, anyway?
@@ -83,11 +84,7 @@ To begin, find all of the directories with a total size of at most 100000, then 
 
 Find all of the directories with a total size of at most 100000. What is the sum of the total sizes of those directories?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 1367870.
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 1367870.
 </details>
 
 --- Part Two ---
@@ -109,9 +106,5 @@ Directories e and a are both too small; deleting them would not free up enough s
 
 Find the smallest directory that, if deleted, would free up enough space on the filesystem to run the update. What is the total size of that directory?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 549173.
-</details>
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 549173.</details>
+

@@ -2,6 +2,7 @@ This readme is archived from https://adventofcode.com/2022/day/5 and may not be 
 Advent of Code is a registered trademark in the United States.
 It's contents are originally written by Eric Wastl, and slightly modified with my answers.
 
+
 --- Day 5: Supply Stacks ---
 
 The expedition can depart as soon as the final supplies have been unloaded from the ships. Supplies are stored in stacks of marked crates, but because the needed supplies are buried under many other crates, the crates need to be rearranged.
@@ -59,13 +60,8 @@ The Elves just need to know which crate will end up on top of each stack; in thi
 
 After the rearrangement procedure completes, what crate ends up on top of each stack?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was SHMSDGZVC.
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was SHMSDGZVC.
 </details>
-
 
 --- Part Two ---
 
@@ -117,9 +113,5 @@ In this example, the CrateMover 9001 has put the crates in a totally different o
 
 Before the rearrangement process finishes, update your simulation so that the Elves know where they should stand to be ready to unload the final supplies. After the rearrangement procedure completes, what crate ends up on top of each stack?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was VRZGHDFBQ.
-</details>
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was VRZGHDFBQ.</details>
+

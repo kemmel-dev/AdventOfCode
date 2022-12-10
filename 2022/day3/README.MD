@@ -2,6 +2,7 @@ This readme is archived from https://adventofcode.com/2022/day/3 and may not be 
 Advent of Code is a registered trademark in the United States.
 It's contents are originally written by Eric Wastl, and slightly modified with my answers.
 
+
 --- Day 3: Rucksack Reorganization ---
 
 One Elf has the important job of loading all of the rucksacks with supplies for the jungle journey. Unfortunately, that Elf didn't quite follow the packing instructions, and so a few items now need to be rearranged.
@@ -37,12 +38,7 @@ In the above example, the priority of the item type that appears in both compart
 
 Find the item type that appears in both compartments of each rucksack. What is the sum of the priorities of those item types?
 
-
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 7997.
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 7997.
 </details>
 
 --- Part Two ---
@@ -73,9 +69,5 @@ Priorities for these items must still be found to organize the sticker attachmen
 
 Find the item type that corresponds to the badges of each three-Elf group. What is the sum of the priorities of those item types?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 2545.
-</details>
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 2545.</details>
+

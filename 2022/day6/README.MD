@@ -2,6 +2,7 @@ This readme is archived from https://adventofcode.com/2022/day/6 and may not be 
 Advent of Code is a registered trademark in the United States.
 It's contents are originally written by Eric Wastl, and slightly modified with my answers.
 
+
 --- Day 6: Tuning Trouble ---
 
 The preparations are finally complete; you and the Elves leave camp on foot and begin to make your way toward the star fruit grove.
@@ -35,11 +36,7 @@ Here are a few more examples:
 
 How many characters need to be processed before the first start-of-packet marker is detected?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 1658.
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 1658.
 </details>
 
 --- Part Two ---
@@ -58,9 +55,5 @@ Here are the first positions of start-of-message markers for all of the above ex
 
 How many characters need to be processed before the first start-of-message marker is detected?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 2260.
-</details>
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 2260.</details>
+

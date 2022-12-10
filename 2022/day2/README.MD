@@ -33,11 +33,7 @@ In this example, if you were to follow the strategy guide, you would get a total
 
 What would your total score be if everything goes exactly according to your strategy guide?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 11449.
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 11449.
 </details>
 
 --- Part Two ---
@@ -54,11 +50,5 @@ Now that you're correctly decrypting the ultra top secret strategy guide, you wo
 
 Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?
 
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 13187.</details>
 
-
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 13187.
-</details>

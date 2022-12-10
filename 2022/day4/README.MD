@@ -2,6 +2,7 @@ This readme is archived from https://adventofcode.com/2022/day/4 and may not be 
 Advent of Code is a registered trademark in the United States.
 It's contents are originally written by Eric Wastl, and slightly modified with my answers.
 
+
 --- Day 4: Camp Cleanup ---
 
 Space needs to be cleared before the last supplies can be unloaded from the ships, and so several Elves have been assigned the job of cleaning up sections of the camp. Every section has a unique ID number, and each Elf is assigned a range of section IDs.
@@ -47,11 +48,7 @@ Some of the pairs have noticed that one of their assignments fully contains the 
 
 In how many assignment pairs does one range fully contain the other?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 588.
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 588.
 </details>
 
 --- Part Two ---
@@ -69,9 +66,5 @@ So, in this example, the number of overlapping assignment pairs is 4.
 
 In how many assignment pairs do the ranges overlap?
 
-<details>
-    <summary>
-        Click for the correct answer using my input.txt.
-    </summary>
-    Your puzzle answer was 911.
-</details>
+<details><summary>Click for the correct answer using my puzzle input.</summary>Your puzzle answer was 911.</details>
+
